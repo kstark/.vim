@@ -31,3 +31,12 @@ let g:solarized_termcolors=256
 colorscheme solarized
 
 set encoding=utf-8
+
+noremap  <Up> ""
+noremap! <Up> <Esc>
+noremap  <Down> ""
+noremap! <Down> <Esc>
+noremap  <Left> ""
+noremap! <Left> <Esc>
+noremap  <Right> ""
+noremap! <Right> <Esc>
