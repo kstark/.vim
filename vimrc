@@ -12,6 +12,8 @@ Bundle 'gmarik/vundle'
 "
 " original repos on github
 Bundle 'altercation/vim-colors-solarized'
+" snippets
+Bundle 'msanders/snipmate.vim'
 
 " Github repos of the user 'vim-scripts'
 " => can omit the username part
