@@ -23,3 +23,11 @@ Bundle 'altercation/vim-colors-solarized'
 " ...
 
 filetype plugin indent on     " required!
+
+syntax enable
+set background=dark
+
+let g:solarized_termcolors=256
+colorscheme solarized
+
+set encoding=utf-8
