@@ -44,3 +44,5 @@ noremap  <Right> ""
 noremap! <Right> <Esc>
 
 set spell spelllang=en_us
+
+set mouse=a
