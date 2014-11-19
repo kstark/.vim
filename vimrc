@@ -54,3 +54,6 @@ set encoding=utf-8
 set spell spelllang=en_us
 
 set mouse=a
+
+" Allow backspacing everywhere
+set backspace=indent,eol,start
