@@ -15,6 +15,13 @@ Bundle 'altercation/vim-colors-solarized'
 " snippets
 Bundle 'msanders/snipmate.vim'
 
+" HTML
+" Bundle 'html.vim'
+
+" python packages
+Bundle 'klen/python-mode'
+Bundle 'mako.vim'
+
 " Github repos of the user 'vim-scripts'
 " => can omit the username part
 " Bundle 'L9'
