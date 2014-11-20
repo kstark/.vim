@@ -15,6 +15,9 @@ Bundle 'altercation/vim-colors-solarized'
 " snippets
 Bundle 'msanders/snipmate.vim'
 
+" YAML - 'yaml.vim' is reported to be slow, so instead we use:
+Bundle 'stephpy/vim-yaml'
+
 " HTML
 " Bundle 'html.vim'
 
