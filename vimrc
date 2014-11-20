@@ -64,3 +64,8 @@ set mouse=a
 
 " Allow backspacing everywhere
 set backspace=indent,eol,start
+
+" Set softtabs and shiftwidth
+set expandtab
+set softtabstop=4
+set shiftwidth=4
