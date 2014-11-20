@@ -37,7 +37,11 @@ syntax enable
 set background=dark
 
 let g:solarized_termcolors=256
-colorscheme solarized
+try
+    colorscheme solarized
+catch /^Vim\%((\a\+)\)\=:E185/
+    silent! colorscheme darkblue
+endtry
 
 set encoding=utf-8
 
